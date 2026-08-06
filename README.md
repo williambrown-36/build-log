@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Budgeting Text-to-Image Workloads: Startup MVP API Costs Beyond List Prices](posts/budgeting-text-to-image-workloads-startup-mvp-api-costs-beyond-list-pric.md)
 - [A two-tier content moderation check on an OpenAI-compatible API: what I measured](posts/a-two-tier-content-moderation-check-on-an-openai-compatible-api-what-i-m.md)
 - [One API key for OpenAI, Claude and Gemini: model switching in a Node.js backend](posts/one-api-key-for-openai-claude-and-gemini-model-switching-in-a-node-js-ba.md)
 - [Classifying support tickets with an LLM in Node.js: JSON schema tags that hold up](posts/classifying-support-tickets-with-an-llm-in-node-js-json-schema-tags-that.md)
